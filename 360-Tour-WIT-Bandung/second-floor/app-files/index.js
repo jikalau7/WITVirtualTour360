@@ -285,7 +285,7 @@
     if(id == "3"){
       wrapper.addEventListener("click", function() {
         sessionStorage.setItem("targetScene", "3");
-        window.location.href = "/360-Tour-WIT-Bandung/first-floor/app-files/index.html?6-main-7-8";
+        window.location.href = "./360-Tour-WIT-Bandung/first-floor/app-files/index.html?6-main-7-8";
       });
     }
     // Set rotation transform.
