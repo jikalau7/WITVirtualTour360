@@ -295,7 +295,7 @@ function switchScene(index) {
 
     if(id == "2"){
       wrapper.addEventListener("click", function() {
-        window.location.href = "/360-Tour-WIT-Bandung/second-floor/app-files/index.html";
+        window.location.href = "../360-Tour-WIT-Bandung/second-floor/app-files/index.html";
       });
     }
     icon.classList.add('link-hotspot-icon');
